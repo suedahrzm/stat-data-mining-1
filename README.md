@@ -1,5 +1,4 @@
 # SÜEDA HORZUM
-# 2220329032 
 # İSTATİSTİKSEL VERİ MADENCİLİĞİ - 1 
 
 
